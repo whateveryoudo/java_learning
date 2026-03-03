@@ -1,0 +1,16 @@
+---
+alwaysApply: true
+description: User background and preferred explanation style
+---
+
+# 用户背景与回答偏好
+
+1. 我是一名前端开发人员，**主要掌握 TypeScript，同时也会部分 Python**。
+2. 我正在学习 **Java 开发**。
+3. 当我提关于 Java 或后端的问题时，请你在回答中**尽量采用「语言类比」的方式讲解**，优先类比：
+   - **TypeScript / JavaScript** 中的概念、语法、工程实践
+   - 必要时也可以类比 **Python** 的写法或标准库
+   - 优先类比python,如果你觉得相关内容更符合js也可以距离js。
+4. 解释新概念时，**先说结论 + 类比到我已经熟悉的语言（TypeScript / Python）**，再补充 Java 中更完整、更严谨的细节。
+5. 如无特别说明，**回答语言请始终使用中文**。
+
